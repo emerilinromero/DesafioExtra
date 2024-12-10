@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DesafioExtra</string>
+    <string name="bruna">Bruna</string>
+    <string name="saldo_atual">Saldo atual</string>
+    <string name="r_1_400_00">R$ 1.400,00</string>
+    <string name="pix">Pix</string>
+    <string name="pagamentos">Pagamentos</string>
+    <string name="shopping_pan">Shopping PAN</string>
+    <string name="empr_stimos">Empréstimos</string>
+    <string name="sa_de_de_qualidade_pagando_apenas_r_8_99_por_m_s">Saúde de qualidade pagando apenas R$ 8,99 por mês.</string>
+    <string name="cart_o">Cartão</string>
+    <string name="pe_a_um_cart_o_agora">Peça um cartão agora</string>
+    <string name="pegue_at_nr_12_000_00">Pegue até:\nR$ 12.000,00</string>
+    <string name="voc_ainda_pode_gastar">Você ainda pode gastar:</string>
+</resources>
